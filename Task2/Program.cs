@@ -1,0 +1,1 @@
+﻿// Class is bluprint of object;

@@ -1,0 +1,1 @@
+﻿// Theory answer : Encapsulation hide data from other users;
