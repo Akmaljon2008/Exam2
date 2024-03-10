@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KzrT9WrldUOPlIhXwLud2XihPAcCvEYYqBYiol43SxZdBj1JuL57BaeMQ3EAb6NRbEx04g9Clc1t9KoRcWG1Ww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\2023\\Desktop\\.Net\\week2\\exam\\Infrastracture\\Infrastracture.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\2023\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
+    "C:\\Users\\2023\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\2023\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\2023\\.nuget\\packages\\npgsql\\8.0.2\\npgsql.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
